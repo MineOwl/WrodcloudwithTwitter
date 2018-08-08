@@ -1,8 +1,13 @@
 # WrodcloudwithTwitter
 
-this is metacode of html using python.\n
-first open twitter.\n
-second scroll.\n
-third get tweet. \n
-forth make html with tweetdata. \n
+this is metacode of html using python.
+
+first open twitter.
+
+second scroll.
+
+third get tweet. 
+
+forth make html with tweetdata. 
+
 fifth open html!!
